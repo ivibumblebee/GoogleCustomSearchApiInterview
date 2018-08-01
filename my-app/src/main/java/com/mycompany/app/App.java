@@ -75,7 +75,7 @@ public class App {
 
 
 		conn.disconnect();
-
+	//catching Url and scanner errors
 	  } catch (MalformedURLException e) {
 
 		e.printStackTrace();
