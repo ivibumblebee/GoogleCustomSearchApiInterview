@@ -14,7 +14,7 @@ To test the project simply run the following command:
 
 To build the project simply run the following command:
 
-`mvn build`
+`mvn clean install`
 
 # Contributors
 
